@@ -1,0 +1,4 @@
+1. Open and rename a new folder 'gpt3'.
+2. Drag drop in VScode and open view>terminal
+3. type npx create-react-app ./
+4. delete src folder and create new blank src folder
