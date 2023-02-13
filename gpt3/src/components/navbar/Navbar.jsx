@@ -10,7 +10,7 @@ that help in writing HTML and CSS. */
 const Menu = () => (
         <>
         <p><a href='#home'/>Home</p>
-        <p><a href='#whatgpt3'/>What is GPT3?</p>
+        <p><a href='#wgpt3'/>What is GPT3?</p>
         <p><a href='#possibility'/>Open AI</p>
         <p><a href='#features'/> Case Studies</p>
         <p><a href='#blog'/>Library</p>
